@@ -43,6 +43,18 @@ a {
   max-height: 99%;
 }
 
+.releases {
+  background-color: #6699cc;
+  color: #5D3FD3;
+  border: 2px solid #6699cc;
+}
+
+.releases:hover {
+  background-color: #1a2b34; /* Same as page background color */
+  color: #5D3FD3;
+  border: 2px solid #6699cc;
+}
+
 .installation {
   background-color: #6699cc;
   color: #d1dce6;
